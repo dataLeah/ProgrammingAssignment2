@@ -1,6 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-#create a series of fucntion to£º
+
+#create a series of fucntion toÂ£Âº
 #1.set the matrix
 #2.get the matrix
 #3.set the inverse input matrix 
