@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 #create a series of fucntion to£º
 #1.set the matrix
 #2.get the matrix
